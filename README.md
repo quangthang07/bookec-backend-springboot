@@ -10,4 +10,3 @@ This project implement the back-end of book-ec website.
 - api/v1/review: crud review for specific book
 - api/v1/author: crud author for specific book
 - api/v1/order: crud order by user
-- 
